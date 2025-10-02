@@ -46,11 +46,51 @@ Hi 👋 I'm **Davan C Reddy**, a Computer Science and Design student at Dayanand
 
 ---
 
-## 🚀 Projects  
+## 🚀 Projects
 
-🔹 [**Automated Space Cargo Stowage Management**](https://github.com/Davan57/Automated-Space-Cargo-Stowage-Management) – Intelligent cargo management system with **priority algorithms + 3D visualization**, reducing misplacements by 40%.  
+### ⭐ Featured
+- **[AI-Powered-Voice-Analytics-for-Business-Insights](https://github.com/Davan57/AI-Powered-Voice-Analytics-for-Business-Insights)**  
+  End-to-end voice analytics pipeline for business insights (ingest → process → analyze).  
+  _Stack:_ JavaScript, ML/Signal Processing, Web stack
 
-🔹 [**Network Intrusion Detection System**](https://github.com/Davan57/Network-Intrusion-Detection/tree/main) – ML-powered **intrusion detection** with 96.23% accuracy and reduced false positives by 14%.  
+- **[Cognify — AI-Powered Education Community Platform](https://github.com/Davan57/Cognify-AI-Powered-Education-Community-Platform)**  
+  Community learning platform with AI helpers and content workflows.  
+  _Stack:_ JavaScript, Web, Auth/DB integrations
+
+- **[Automated Space Cargo Stowage Management](https://github.com/Davan57/Automated-Space-Cargo-Stowage-Management)**  
+  Priority-based cargo placement with 3D visualization for planning and monitoring.  
+  _Stack:_ Node.js, React (three/fiber), MongoDB, Docker
+
+- **[Network Intrusion Detection](https://github.com/Davan57/Network-Intrusion-Detection)**  
+  ML pipeline to detect anomalous network traffic across multiple algorithms.  
+  _Stack:_ Python, scikit-learn, pandas, NumPy, Jupyter
+
+- **[Secure-Pay](https://github.com/Davan57/Secure-Pay)**  
+  Notebook-driven prototype exploring secure payment flows & data handling.  
+  _Stack:_ Python, Jupyter
+
+### 🧠 NLP, RAG & Summarization
+- **[News Summarization & Text-to-Speech App](https://github.com/Davan57/News-Summarization-and-Text-to-Speech-Application)**  
+  Pull → summarize → speak the news with an integrated TTS pipeline.  
+  _Stack:_ Python/JS (app), TTS, summarization
+
+- **[LangChain QA System](https://github.com/Davan57/Langchain-QA-System)**  
+  Document-aware QA using LangChain (retrieval + generation workflow).  
+  _Stack:_ Python, LangChain, vector retrieval, Jupyter
+
+- **[Infosys_Springboard_Text-Summarization (fork)](https://github.com/Davan57/Infosys_Springboard_Text-Summarization)**  
+  Coursework/implementation reference of transformer + rule-based summarization.  
+  _Stack:_ Python, Jupyter
+
+### 🧪 CV & Classification
+- **[Waste Classifier using Neural Network](https://github.com/Davan57/Waste-classifier-using-Neural-Network)**  
+  Real-time webcam inference + training interface for waste categorization.  
+  _Stack:_ Python, OpenCV, DL, Desktop app
+
+### 📈 Data & Analytics
+- **[Budget Sales Analysis](https://github.com/Davan57/Budget-Sales-Analysis)** – data analysis & dashboards  
+- **[Crop Production Analysis](https://github.com/Davan57/Crop-Production-Analysis)** – agri dataset exploration & insights  
+- **[Stock Market Analysis using Python](https://github.com/Davan57/Stock-Market-Analysis-using-Python)** – indicators & EDA
 
 ---
 
