@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi, I'm Davan C Reddy 👋</h1>
 <p align="center">
-  AI/ML • RAG/GraphRAG • Full-stack • SAP ABAP • DevOps<br/>
+  AI/ML • RAG/GraphRAG • Full-stack • DevOps<br/>
   B.E. CSD @ Dayananda Sagar (CGPA 9.22)
 </p>
 
