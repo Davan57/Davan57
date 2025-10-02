@@ -39,7 +39,7 @@
 ---
 
 ## 🧩 System sketches (Mermaid)
-```mermaid
+```
 flowchart LR
   U[User] -->|Query| Q(Orchestrator)
   subgraph Retrieval
@@ -51,7 +51,8 @@ flowchart LR
   G --> C
   C --> L[LLM]
   L --> A[Answer + Traces]
-mermaid
+```
+```
 sequenceDiagram
   participant Client
   participant Gateway
