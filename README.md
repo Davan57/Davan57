@@ -62,22 +62,20 @@ Hi 👋 I'm **Davan C Reddy**, a Computer Science and Design student at Dayanand
 
 ---
 
-## 📊 GitHub Stats:
-<table>
-  <tr>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app?user=Davan57&theme=dark&hide_border=true&card_width=705"/>
-     </td>
-   </tr>
-</table><table>
-  <tr>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Davan57&theme=dark">
-     </td>
-   </tr>
-</table><table>
-  <tr>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Davan57&theme=dark"></td>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Davan57&theme=dark"></td>
-  </tr>
-</table>  
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/Davan57">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Davan57&show_icons=true&rank_icon=percentile&include_all_commits=true&count_private=true&hide_title=true&hide_border=true&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Davan57">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davan57&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img height="200" src="https://streak-stats.demolab.com?user=Davan57&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  </a>
+</p>
+
