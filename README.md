@@ -1,7 +1,7 @@
 <!-- ====== HERO / BANNER ====== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1e3c72,100:2a5298&text=Davan%20C%20Reddy&desc=AI%20%7C%20Systems%20%7C%20Cloud%20%7C%20ML&fontColor=ffffff&fontSize=48&descAlignY=72&animation=fadeIn&section=header" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Davan%20C%20Reddy&fontSize=48&fontColor=ffffff&desc=AI%20%7C%20Systems%20%7C%20Cloud%20%7C%20ML&descSize=20&descAlignY=70&animation=fadeIn" width="100%"/>
+</div>
 
 <!-- ====== QUICK BADGES ====== -->
 <p align="center">
