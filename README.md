@@ -122,10 +122,10 @@ Hi 👋 I'm **Davan C Reddy**, a Computer Science and Design student at Dayanand
 ## 🏅 Certifications  
 
 <p align="center">
-  <a href="https://www.servicenow.com/certifications.html" target="_blank">
+  <a href="[https://www.servicenow.com/certifications.html](https://drive.google.com/file/d/1T4dtL91wEKgenXecXs_0I3ylb40J5XaX/view)" target="_blank">
     <img src="https://img.shields.io/badge/ServiceNow-CSA%20(System%20Administrator)-0BA9E0?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow CSA" />
   </a>
-  <a href="https://www.servicenow.com/certifications.html" target="_blank">
+  <a href="[https://www.servicenow.com/certifications.html" target](https://drive.google.com/file/d/1hXcF3Nnx7a2tQpPgcsKPX7zfKihCfUJv/view)="_blank">
     <img src="https://img.shields.io/badge/ServiceNow-CAD%20(Application%20Developer)-0BA9E0?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow CAD" />
   </a>
 </p>
