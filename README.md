@@ -1,3 +1,25 @@
+<!-- ====== HERO / BANNER ====== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1e3c72,100:2a5298&text=Davan%20C%20Reddy&desc=AI%20%7C%20Systems%20%7C%20Cloud%20%7C%20ML&fontColor=ffffff&fontSize=48&descAlignY=72&animation=fadeIn&section=header" />
+</p>
+
+<!-- ====== QUICK BADGES ====== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Davan57&label=Profile%20Views&style=for-the-badge&color=0e75b6" />
+  <img src="https://img.shields.io/badge/Time%20Zone-Asia%2FKolkata-2a5298?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Graduating-June%202026-1e3c72?style=for-the-badge" />
+  <a href="mailto:davanc2004@gmail.com"><img src="https://img.shields.io/badge/Email-davanc2004%40gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/davan-c-reddy/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<!-- ====== TYPING LINE ====== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2A5298&center=true&vCenter=true&width=900&lines=Building+usable+AI+systems+%E2%80%94+not+just+models.;GraphRAG%2C+LLMs%2C+FastAPI%2C+and+cloud%E2%80%94from+prototype+to+prod.;Design+meets+engineering%3A+I+like+code+that+feels+good+to+use." />
+</p>
+
+---
+
+
 # 💫 About Me:  
 ![](https://komarev.com/ghpvc/?username=Davan57&label=Profile+views&style=for-the-badge&color=green)
 
