@@ -68,6 +68,8 @@ sequenceDiagram
   Collab-->>Client: Broadcast diffs
   Client->>LLM: Contextual prompt
   LLM-->>Client: Response
+```
+
 ## 📈 Activity & stats
 <p align="center"> <!-- GitHub Readme Stats (lightweight, no token required) --> <img src="https://github-readme-stats.vercel.app/api?username=Davan57&show_icons=true&hide_rank=false" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davan57&layout=compact" height="165" /> </p>
 ## 🎓 Certifications
