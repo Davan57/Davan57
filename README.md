@@ -21,15 +21,20 @@
 
 
 # 💫 About Me:  
-Hello there! I’m **Davan C Reddy** — an undergrad in **Computer Science & Design** (CSD) with a drive to turn data and intelligence into impactful software systems.  
-I blend **AI / ML**, **cloud infrastructure**, and **system design** to build tools that scale and delight users.
+## 💫 About Me  
 
-- 🛠️ **What I build**: Backend services, data pipelines, LLM + retrieval systems, interactive apps, and visualizations  
-- 🎯 **Core Interests**: Retrieval-Augmented Generation (RAG), LangChain workflows, vector stores, ML interpretability, prompt engineering  
-- 💡 **Strengths**: Clear architecture, reproducible experiments, intuitive APIs, thoughtful UX, solid documentation  
-- 🤝 **Open to collaborate** on AI + cloud + full-stack projects that solve real problems  
-- 🎓 **Currently**: Bachelor’s in CSD @ Dayananda Sagar College of Engineering, maintaining a CGPA ≈ 9.22  
+Hey there! I’m **Davan C Reddy** — a Computer Science & Design undergrad at **Dayananda Sagar College of Engineering (CGPA 9.22)**, currently working as an **Innovation Intern at Baker Tilly** where I’m developing a **GraphRAG-powered knowledge retrieval system** and exploring **multi-modal query strategies** for enterprise-grade AI.  
 
+My passion lies in **Artificial Intelligence, Generative AI, and Machine Learning** — building **retrieval-augmented generation (RAG) pipelines**, fine-tuning LLMs, designing evaluation frameworks, and experimenting with **embeddings, vector databases, and prompt engineering**. I aim to create **usable, efficient, and trustworthy AI systems** that bridge research with real-world applications.  
+
+At the same time, I enjoy applying **system design, backend development, and cloud deployment** practices to make these AI workflows production-ready. With experience in **FastAPI, Docker, Azure, and scalable architectures**, I bring an engineering mindset to complement my AI focus.  
+
+- 🤖 **I build**: RAG systems, LLM apps, summarizers, anomaly detectors, and AI-driven platforms  
+- 🎯 **Interests**: LangChain, LLM evaluation, embeddings, GenAI applications, ML optimization  
+- 🛠 **Supporting Skills**: Backend/API development, system design, cloud (Azure, Docker), data visualization  
+- 🤝 **Open to collaborate** on AI/GenAI/ML research, applied projects, and innovative software systems  
+
+Outside of work, I enjoy **exploring new ML research**, prototyping GenAI applications, and refining my craft through side projects that mix **AI + engineering**.  
 
 ---
 
