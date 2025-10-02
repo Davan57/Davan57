@@ -1,9 +1,45 @@
 <!-- github.com/Davan57/Davan57 -->
 <!-- Profile README drives the entire landing page of your GitHub profile -->
 
-<!-- Banner -->
+<!-- ======== INLINE BANNER (no external file needed) ======== -->
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Davan C Reddy — AI/ML • RAG/GraphRAG • Full-stack • DevOps">
+  <!-- Inline SVG banner -->
+  <svg width="1000" height="280" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Davan C Reddy — AI/ML • RAG/GraphRAG • Full-stack • DevOps">
+    <defs>
+      <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#0ea5e9"/>
+        <stop offset="50%" stop-color="#8b5cf6"/>
+        <stop offset="100%" stop-color="#22c55e"/>
+      </linearGradient>
+      <linearGradient id="grid" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0%" stop-color="rgba(255,255,255,0.08)"/>
+        <stop offset="100%" stop-color="rgba(255,255,255,0.02)"/>
+      </linearGradient>
+      <filter id="b"><feGaussianBlur stdDeviation="40"/></filter>
+    </defs>
+
+    <rect width="1200" height="320" fill="#0b0f19"/>
+    <!-- soft glows -->
+    <circle cx="200" cy="260" r="160" fill="url(#g)" opacity="0.35" filter="url(#b)"/>
+    <circle cx="1000" cy="80" r="180" fill="url(#g)" opacity="0.30" filter="url(#b)"/>
+
+    <!-- tech grid -->
+    <g opacity="0.25">
+      <path d="M0 40 H1200 M0 80 H1200 M0 120 H1200 M0 160 H1200 M0 200 H1200 M0 240 H1200 M0 280 H1200" stroke="url(#grid)" stroke-width="1"/>
+      <path d="M60 0 V320 M180 0 V320 M300 0 V320 M420 0 V320 M540 0 V320 M660 0 V320 M780 0 V320 M900 0 V320 M1020 0 V320 M1140 0 V320" stroke="url(#grid)" stroke-width="1"/>
+    </g>
+
+    <!-- name -->
+    <text x="80" y="150" fill="#e5e7eb" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu" font-size="44" font-weight="700">
+      Davan C Reddy
+    </text>
+    <text x="80" y="190" fill="#a5b4fc" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu" font-size="20">
+      AI/ML • RAG/GraphRAG • Full-stack • SAP ABAP • DevOps
+    </text>
+    <text x="80" y="225" fill="#94a3b8" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu" font-size="16">
+      Building retrieval systems, realtime collaboration, and secure ML pipelines
+    </text>
+  </svg>
 </p>
 
 <h1 align="center">Hi, I'm Davan C Reddy 👋</h1>
