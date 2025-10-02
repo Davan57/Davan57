@@ -120,10 +120,40 @@ Hi 👋 I'm **Davan C Reddy**, a Computer Science and Design student at Dayanand
 ---
 
 ## 🏅 Certifications  
-- ServiceNow **CSA** (Mar 2025)  
-- ServiceNow **CAD** (May 2025)  
-- Google **Data Analytics Professional Certificate** (2024)  
-- Stanford + DeepLearning.AI **Machine Learning Specialization** (2024)  
+
+<p align="center">
+  <a href="https://www.servicenow.com/certifications.html" target="_blank">
+    <img src="https://img.shields.io/badge/ServiceNow-CSA%20(System%20Administrator)-0BA9E0?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow CSA" />
+  </a>
+  <a href="https://www.servicenow.com/certifications.html" target="_blank">
+    <img src="https://img.shields.io/badge/ServiceNow-CAD%20(Application%20Developer)-0BA9E0?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow CAD" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/Q7KDH6ZSXEJ3" target="_blank">
+    <img src="https://img.shields.io/badge/Google-Data%20Analytics%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Data Analytics Certificate" />
+  </a>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/A7ZYQX6FGQ5X" target="_blank">
+    <img src="https://img.shields.io/badge/Stanford%20%2B%20DeepLearning.AI-Machine%20Learning%20Specialization-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML Specialization" />
+  </a>
+</p>
+
+---
+
+### 📌 Details  
+- **ServiceNow Certified System Administrator (CSA)** – *Mar 2025*  
+  *Administer and configure ServiceNow instances, manage data, workflows, and user roles.*  
+
+- **ServiceNow Certified Application Developer (CAD)** – *May 2025*  
+  *Design and build custom ServiceNow applications, APIs, and workflows.*  
+
+- **Google Data Analytics Professional Certificate** – *Coursera (Nov 2023 – Apr 2024)*  
+  *Hands-on with SQL, Tableau/Power BI, dashboards, and real-world data case studies.*  
+
+- **Machine Learning Specialization** – *Stanford & DeepLearning.AI (Aug – Oct 2024)*  
+  *Covers supervised/unsupervised learning, deep learning, ML pipelines, and deployment.*  
+
 
 ---
 
