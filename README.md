@@ -20,9 +20,7 @@
 
 
 ---
-
-
-# 💫 About Me:  
+ 
 ## 💫 About Me  
 
 Hey there! I’m **Davan C Reddy** — a Computer Science & Design undergrad at **Dayananda Sagar College of Engineering (CGPA 9.22)**, currently working as an **Innovation Intern at Baker Tilly** where I’m developing a **GraphRAG-powered knowledge retrieval system** and exploring **multi-modal query strategies** for enterprise-grade AI.  
