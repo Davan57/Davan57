@@ -1,52 +1,83 @@
-<!-- github.com/Davan57/Davan57 -->
-<!-- Profile README drives the entire landing page of your GitHub profile -->
+# 💫 About Me:  
+![](https://komarev.com/ghpvc/?username=Davan57&label=Profile+views&style=for-the-badge&color=green)
 
-<h1 align="center">Hi, I'm Davan C Reddy 👋</h1>
+Hi 👋 I'm **Davan C Reddy**, a Computer Science and Design student at Dayananda Sagar College of Engineering (CGPA: 9.22), passionate about **AI, system design, cloud technologies, and applied machine learning**.  
+
+- 💻 I’m currently learning **AI-driven system design and scalable backend frameworks**.  
+- 🤝 I’m looking to collaborate on **AI, Cloud, and Full-stack projects**.  
+- 🧠 I’m exploring **GraphRAG, LLMs, and advanced data engineering pipelines**.  
+
+📫 **Socials**  
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davan-c-reddy/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davanc2004@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Davan57)  
+
+---
+
+## 💻 Tech Stack & Tools  
+
+### 🌱 Languages & Development Tools  
 <p align="center">
-  AI/ML • RAG • Full-stack • DevOps<br/>
-  B.E. CSD @ Dayananda Sagar (CGPA 9.22)
-</p>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/ABAP-FF0000?style=for-the-badge&logo=sap&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+</p>  
 
+### ⚒️ Frameworks & Libraries  
 <p align="center">
-  <a href="mailto:davanc2004@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-davanc2004%40gmail.com-red"></a>
-  <a href="https://www.linkedin.com/in/davan-c-reddy/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2"></a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Davan57&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+</p>  
 
 ---
 
-## 🚀 I build
-- **GraphRAG Knowledge Retrieval** — hybrid vector + knowledge-graph strategies with local/global retrieval.
-- **Realtime AI Collaboration** — session-aware LLM chat + Monaco editor sync (Socket.io, KeyDB).
-- **ML Security** — Network Intrusion Detection with stream-ready inference.
-- **Vision & Analytics** — Waste classifier app • TTS summarization • Power BI dashboards.
+## 🚀 Projects  
+
+🔹 [**Automated Space Cargo Stowage Management**](https://github.com/Davan57/Automated-Space-Cargo-Stowage-Management) – Intelligent cargo management system with **priority algorithms + 3D visualization**, reducing misplacements by 40%.  
+
+🔹 [**Network Intrusion Detection System**](https://github.com/Davan57/Network-Intrusion-Detection/tree/main) – ML-powered **intrusion detection** with 96.23% accuracy and reduced false positives by 14%.  
 
 ---
 
-## 🧭 Spotlight (quick hop)
-- 🔎 **RAG / GraphRAG** — retrieval pipelines, evaluation harnesses, and tracing.  
-- ⚡ **Realtime** — low-latency collaboration primitives for editors, slides, and media.  
-- 🔐 **Security** — anomaly/attack detection and robust feature engineering.  
-- 🧰 **Tooling** — clean repos, CI, Docker, reproducible envs.
+## 🏅 Certifications  
+- ServiceNow **CSA** (Mar 2025)  
+- ServiceNow **CAD** (May 2025)  
+- Google **Data Analytics Professional Certificate** (2024)  
+- Stanford + DeepLearning.AI **Machine Learning Specialization** (2024)  
 
 ---
 
-## 🛠️ Toolbox
-**Languages**: Python, Java, JS/TS, SQL, C, ABAP  
-**ML/AI**: TensorFlow, scikit-learn, LangChain, RAG, Graph databases  
-**Cloud/DevOps**: Docker, GitHub Actions, Linux, Azure, Power BI, BigQuery, ServiceNow
-
----
-
-## 📈 Activity & stats
-<p align="center"> <!-- GitHub Readme Stats (lightweight, no token required) --> <img src="https://github-readme-stats.vercel.app/api?username=Davan57&show_icons=true&hide_rank=false" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davan57&layout=compact" height="165" /> </p>
-
----
-
-## 🎓 Certifications
-ServiceNow CSA & CAD • Google Data Analytics • ML Specialization (Stanford/DeepLearning.AI)
-
----
-
-
-
+## 📊 GitHub Stats:
+<table>
+  <tr>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app?user=Davan57&theme=dark&hide_border=true&card_width=705"/>
+     </td>
+   </tr>
+</table><table>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Davan57&theme=dark">
+     </td>
+   </tr>
+</table><table>
+  <tr>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Davan57&theme=dark"></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Davan57&theme=dark"></td>
+  </tr>
+</table>  
