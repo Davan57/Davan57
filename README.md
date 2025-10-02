@@ -68,19 +68,16 @@ sequenceDiagram
   Collab-->>Client: Broadcast diffs
   Client->>LLM: Contextual prompt
   LLM-->>Client: Response
-📈 Activity & stats
+## 📈 Activity & stats
 <p align="center"> <!-- GitHub Readme Stats (lightweight, no token required) --> <img src="https://github-readme-stats.vercel.app/api?username=Davan57&show_icons=true&hide_rank=false" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davan57&layout=compact" height="165" /> </p>
-🎓 Certifications
+## 🎓 Certifications
 ServiceNow CSA & CAD • Google Data Analytics • ML Specialization (Stanford/DeepLearning.AI)
 
-📬 Reach me
+## 📬 Reach me
 Email: davanc2004@gmail.com
 
 LinkedIn: linkedin.com/in/davan-c-reddy
 
 <sub>Built with ❤️ using badges, Mermaid, and a dash of CI.</sub>
 
-php-template
-Copy code
 
----
