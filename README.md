@@ -6,7 +6,7 @@
 <!-- ====== QUICK BADGES ====== -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Davan57&label=Profile%20Views&style=for-the-badge&color=0e75b6" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20GenAI-2a5298?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-2a5298?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Graduating-June%202026-1e3c72?style=for-the-badge" />
   <a href="mailto:davanc2004@gmail.com"><img src="https://img.shields.io/badge/Email-davanc2004%40gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/davan-c-reddy/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
