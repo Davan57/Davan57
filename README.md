@@ -1,12 +1,12 @@
 <!-- ====== HERO / BANNER ====== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1e3c72,100:2a5298&text=Davan%20C%20Reddy&desc=AI%20%7C%20GenAI%20%7C%20ML%20%7C%20Development%20%7C%20Cloud&fontColor=ffffff&fontSize=46&descAlignY=72&animation=fadeIn&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1e3c72,100:2a5298&text=Davan%20C%20Reddy&desc=AI%20%7C%20GenAI%20%7C%20ML%20%7C%20Development%20%7C%20Cloud&fontColor=ffffff&fontSize=46&descAlignY=72&animation=fadeIn&section=header" width="100%" />
 </div>
 
 <!-- ====== QUICK BADGES ====== -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Davan57&label=Profile%20Views&style=for-the-badge&color=0e75b6" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20GenAI-2a5298?style=for-the-badge&logo=ai" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20GenAI-2a5298?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Graduating-June%202026-1e3c72?style=for-the-badge" />
   <a href="mailto:davanc2004@gmail.com"><img src="https://img.shields.io/badge/Email-davanc2004%40gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/davan-c-reddy/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -18,78 +18,77 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2A5298&center=true&vCenter=true&width=900&lines=Building+trustworthy+AI+%26+GenAI+systems.;GraphRAG%2C+LLMs%2C+LangChain%2C+FastAPI.;Turning+ML+ideas+into+production-ready+apps.;AI+first,+supported+by+cloud+%26+development." />
 </p>
 
-
 ---
- 
-## 💫 About Me  
 
-Hey there! I’m **Davan C Reddy** — a Computer Science & Design undergrad at **Dayananda Sagar College of Engineering (CGPA 9.22)**, currently working as an **Innovation Intern at Baker Tilly** where I’m developing a **GraphRAG-powered knowledge retrieval system** and exploring **multi-modal query strategies** for enterprise-grade AI.  
+## 💫 About Me
 
-My passion lies in **Artificial Intelligence, Generative AI, and Machine Learning** — building **retrieval-augmented generation (RAG) pipelines**, fine-tuning LLMs, designing evaluation frameworks, and experimenting with **embeddings, vector databases, and prompt engineering**. I aim to create **usable, efficient, and trustworthy AI systems** that bridge research with real-world applications.  
+Hey there! I’m **Davan C Reddy** — a Computer Science & Design undergrad at **Dayananda Sagar College of Engineering (CGPA 9.22)**, currently working as an **Innovation Intern at Baker Tilly** where I’m developing a **GraphRAG-powered knowledge retrieval system** and exploring **multi-modal query strategies** for enterprise-grade AI.
 
-At the same time, I enjoy applying **system design, backend development, and cloud deployment** practices to make these AI workflows production-ready. With experience in **FastAPI, Docker, Azure, and scalable architectures**, I bring an engineering mindset to complement my AI focus.  
+My passion lies in **Artificial Intelligence, Generative AI, and Machine Learning** — building **retrieval-augmented generation (RAG) pipelines**, fine-tuning LLMs, designing evaluation frameworks, and experimenting with **embeddings, vector databases, and prompt engineering**. I aim to create **usable, efficient, and trustworthy AI systems** that bridge research with real-world applications.
+
+At the same time, I enjoy applying **system design, backend development, and cloud deployment** practices to make these AI workflows production-ready. With experience in **FastAPI, Docker, Azure, and scalable architectures**, I bring an engineering mindset to complement my AI focus.
 
 - 🤖 **I build**: RAG systems, LLM apps, summarizers, anomaly detectors, and AI-driven platforms  
 - 🎯 **Interests**: LangChain, LLM evaluation, embeddings, GenAI applications, ML optimization  
 - 🛠 **Supporting Skills**: Backend/API development, system design, cloud (Azure, Docker), data visualization  
-- 🤝 **Open to collaborate** on AI/GenAI/ML research, applied projects, and innovative software systems  
+- 🤝 **Open to collaborate** on AI/GenAI/ML research, applied projects, and innovative software systems
 
-Outside of work, I enjoy **exploring new ML research**, prototyping GenAI applications, and refining my craft through side projects that mix **AI + engineering**.  
-
----
-
-## 💻 Tech Stack & Tools  
-
-### 🌱 Languages  
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/ABAP-FF0000?style=for-the-badge&logo=sap&logoColor=white">
-</p>  
+Outside of work, I enjoy **exploring new ML research**, prototyping GenAI applications, and refining my craft through side projects that mix **AI + engineering**.
 
 ---
 
-### ⚒️ Frameworks & Libraries  
+## 💻 Tech Stack & Tools
+
+### 🌱 Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/Matplotlib-005571?style=for-the-badge&logo=plotly&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-</p>  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/ABAP-FF0000?style=for-the-badge&logo=sap&logoColor=white" />
+</p>
 
 ---
 
-### ☁️ Databases & Cloud  
+### ⚒️ Frameworks & Libraries
 <p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white">
-  <img src="https://img.shields.io/badge/ServiceNow-0BA9E0?style=for-the-badge&logo=servicenow&logoColor=white">
-</p>  
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
 
 ---
 
-### 🛠 Tools & Platforms  
+### ☁️ Databases & Cloud
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/ServiceNow-0BA9E0?style=for-the-badge&logo=servicenow&logoColor=white" />
+</p>
+
+---
+
+### 🛠 Tools & Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
 ---
@@ -136,13 +135,13 @@ Outside of work, I enjoy **exploring new ML research**, prototyping GenAI applic
   _Stack:_ Python, OpenCV, DL, Desktop app
 
 ### 📈 Data & Analytics
-- **[Budget Sales Analysis](https://github.com/Davan57/Budget-Sales-Analysis)** – data analysis & dashboards  
-- **[Crop Production Analysis](https://github.com/Davan57/Crop-Production-Analysis)** – agri dataset exploration & insights  
-- **[Stock Market Analysis using Python](https://github.com/Davan57/Stock-Market-Analysis-using-Python)** – indicators & EDA
+- **[Budget Sales Analysis](https://github.com/Davan57/Budget-Sales-Analysis)** — data analysis & dashboards  
+- **[Crop Production Analysis](https://github.com/Davan57/Crop-Production-Analysis)** — agri dataset exploration & insights  
+- **[Stock Market Analysis using Python](https://github.com/Davan57/Stock-Market-Analysis-using-Python)** — indicators & EDA
 
 ---
 
-## 🏅 Certifications  
+## 🏅 Certifications
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1T4dtL91wEKgenXecXs_0I3ylb40J5XaX/view" target="_blank">
@@ -152,6 +151,7 @@ Outside of work, I enjoy **exploring new ML research**, prototyping GenAI applic
     <img src="https://img.shields.io/badge/ServiceNow-CAD%20(Application%20Developer)-0BA9E0?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow CAD" />
   </a>
 </p>
+
 <p align="center">
   <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/Q7KDH6ZSXEJ3" target="_blank">
     <img src="https://img.shields.io/badge/Google-Data%20Analytics%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Data Analytics Certificate" />
@@ -163,19 +163,18 @@ Outside of work, I enjoy **exploring new ML research**, prototyping GenAI applic
 
 ---
 
-### 📌 Details  
-- **ServiceNow Certified System Administrator (CSA)** – *Mar 2025*  
-  *Administer and configure ServiceNow instances, manage data, workflows, and user roles.*  
+### 📌 Details
+- **ServiceNow Certified System Administrator (CSA)** — *Mar 2025*  
+  *Administer and configure ServiceNow instances, manage data, workflows, and user roles.*
 
-- **ServiceNow Certified Application Developer (CAD)** – *May 2025*  
-  *Design and build custom ServiceNow applications, APIs, and workflows.*  
+- **ServiceNow Certified Application Developer (CAD)** — *May 2025*  
+  *Design and build custom ServiceNow applications, APIs, and workflows.*
 
-- **Google Data Analytics Professional Certificate** – *Coursera (Nov 2023 – Apr 2024)*  
-  *Hands-on with SQL, Tableau/Power BI, dashboards, and real-world data case studies.*  
+- **Google Data Analytics Professional Certificate** — *Coursera (Nov 2023 – Apr 2024)*  
+  *Hands-on with SQL, Tableau/Power BI, dashboards, and real-world data case studies.*
 
-- **Machine Learning Specialization** – *Stanford & DeepLearning.AI (Aug – Oct 2024)*  
-  *Covers supervised/unsupervised learning, deep learning, ML pipelines, and deployment.*  
-
+- **Machine Learning Specialization** — *Stanford & DeepLearning.AI (Aug – Oct 2024)*  
+  *Covers supervised/unsupervised learning, deep learning, ML pipelines, and deployment.*
 
 ---
 
@@ -198,5 +197,5 @@ Outside of work, I enjoy **exploring new ML research**, prototyping GenAI applic
 
 <!-- ====== FOOTER WAVE ====== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=120&section=footer" width="100%" />
 </div>
