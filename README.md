@@ -1,30 +1,6 @@
 <!-- github.com/Davan57/Davan57 -->
 <!-- Profile README drives the entire landing page of your GitHub profile -->
 
-<!-- ======== INLINE BANNER (safe SVG, no filters) ======== -->
-<div align="center">
-  <svg width="1000" height="220" viewBox="0 0 1000 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Davan C Reddy — AI/ML • RAG/GraphRAG • Full-stack • DevOps">
-    <defs>
-      <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-        <stop offset="0%" stop-color="#0ea5e9"/>
-        <stop offset="50%" stop-color="#8b5cf6"/>
-        <stop offset="100%" stop-color="#22c55e"/>
-      </linearGradient>
-    </defs>
-    <rect width="1000" height="220" fill="#0b0f19"/>
-    <circle cx="160" cy="180" r="120" fill="url(#g)" opacity="0.35"/>
-    <circle cx="850" cy="60"  r="140" fill="url(#g)" opacity="0.30"/>
-
-    <!-- title -->
-    <text x="60" y="120" fill="#e5e7eb" font-family="Segoe UI, Roboto, Ubuntu, system-ui, -apple-system" font-size="36" font-weight="700">
-      Davan C Reddy
-    </text>
-    <text x="60" y="155" fill="#a5b4fc" font-family="Segoe UI, Roboto, Ubuntu, system-ui, -apple-system" font-size="18">
-      AI/ML • RAG/GraphRAG • Full-stack • SAP ABAP • DevOps
-    </text>
-  </svg>
-</div>
-
 <h1 align="center">Hi, I'm Davan C Reddy 👋</h1>
 <p align="center">
   AI/ML • RAG/GraphRAG • Full-stack • SAP ABAP • DevOps<br/>
