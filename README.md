@@ -21,19 +21,15 @@
 
 
 # 💫 About Me:  
-![](https://komarev.com/ghpvc/?username=Davan57&label=Profile+views&style=for-the-badge&color=green)
+Hello there! I’m **Davan C Reddy** — an undergrad in **Computer Science & Design** (CSD) with a drive to turn data and intelligence into impactful software systems.  
+I blend **AI / ML**, **cloud infrastructure**, and **system design** to build tools that scale and delight users.
 
-Hi 👋 I'm **Davan C Reddy**, a Computer Science and Design student at Dayananda Sagar College of Engineering (CGPA: 9.22), passionate about **AI, system design, cloud technologies, and applied machine learning**.  
+- 🛠️ **What I build**: Backend services, data pipelines, LLM + retrieval systems, interactive apps, and visualizations  
+- 🎯 **Core Interests**: Retrieval-Augmented Generation (RAG), LangChain workflows, vector stores, ML interpretability, prompt engineering  
+- 💡 **Strengths**: Clear architecture, reproducible experiments, intuitive APIs, thoughtful UX, solid documentation  
+- 🤝 **Open to collaborate** on AI + cloud + full-stack projects that solve real problems  
+- 🎓 **Currently**: Bachelor’s in CSD @ Dayananda Sagar College of Engineering, maintaining a CGPA ≈ 9.22  
 
-- 💻 I’m currently learning **AI-driven system design and scalable backend frameworks**.  
-- 🤝 I’m looking to collaborate on **AI, Cloud, and Full-stack projects**.  
-- 🧠 I’m exploring **GraphRAG, LLMs, and advanced data engineering pipelines**.  
-
-📫 **Socials**  
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davan-c-reddy/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davanc2004@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Davan57)  
 
 ---
 
