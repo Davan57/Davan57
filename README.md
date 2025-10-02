@@ -195,3 +195,7 @@ Hi 👋 I'm **Davan C Reddy**, a Computer Science and Design student at Dayanand
   </a>
 </p>
 
+<!-- ====== FOOTER WAVE ====== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2a5298,100:1e3c72&section=footer" />
+</p>
