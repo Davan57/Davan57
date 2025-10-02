@@ -57,7 +57,6 @@ flowchart LR
   C --> L[LLM]
   L --> A[Answer + Traces]
 mermaid
-Copy code
 sequenceDiagram
   participant Client
   participant Gateway
